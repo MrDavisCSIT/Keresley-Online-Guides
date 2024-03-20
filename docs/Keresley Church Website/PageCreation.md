@@ -37,7 +37,7 @@ Make sure to click Save Menu when you are done.
 
 ## Updating a page
 
-Go to the [https://www.keresley.church/wp-admin/edit.php?post_type=page](WordPress Pages Page) and under the page you want to edit click "Edit with Elementor"
+Go to the [WordPress Pages Page](https://www.keresley.church/wp-admin/edit.php?post_type=page) and under the page you want to edit click "Edit with Elementor"
 
 ![Edit with Elementor link](editwithelementor-1.png)
 
@@ -47,7 +47,7 @@ This will show you the main Elementor page editor.
 
 Select the items you want on the page and drag them from the sidebar to the page. If you just want to update the content on the page, click on the part you want to update and the sidebar will update allowing you to change content.
 
-[#changing-an-image-on-a-webpage](Changing an Image on a Webpage)
+[Changing an Image on a Webpage](#changing-an-image-on-a-webpage)
 
 Once you have updated the content for your page, click on Update.
 
@@ -57,7 +57,7 @@ Once you have updated the content for your page, click on Update.
 
 ## Changing an Image on a Webpage
 
-Follow the guide to update a page [#updating-a-page](Updating Web Pages)
+Follow the guide to update a page [Updating Web Pages](#updating-a-page)
 
 Click on the image on you webpage. The sidebar will update.
 
