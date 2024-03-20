@@ -7,3 +7,9 @@ plugins:
 - search
 - mkdocstrings
 - autorefs
+markdown_extensions:
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
