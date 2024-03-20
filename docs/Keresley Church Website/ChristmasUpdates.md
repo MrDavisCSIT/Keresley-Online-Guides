@@ -5,7 +5,7 @@ Go to [https://www.keresley.church/wp-admin/edit.php?post_type=page](https://www
 
 In the Elementor page editor, click on last years poster and the sidebar of the left will update. 
 
-![image](sidebar.png)
+![Elementor Sidebar](sidebar.png)
 
 Click on the image preview and upload the new poster and select that. Once you have done that the image has been updated so you can click on Publish on the sidebar. 
 
@@ -17,24 +17,17 @@ Under “Advent” click on Edit with Elementor
 
 In the Elementor page editor, click on last years poster and the sidebar of the left will update.
 
-![image](sidebar.png)
+![Elementor Sidebar](sidebar.png)
 
 Click on the image preview and upload the new poster and select that. Once you have done that the image has been updated so you can click on Update on the sidebar.
 Next to update click on the up arrow and then Triggers
 
-![image](triggers.png)
+![Elementor Pop-Up Triggers Screen](triggers.png)
 
 Turn page load on or off then click save and close.
 
-![image](onpageload.png)
+![Elementor Pop-Up Triggers Screen](onpageload.png)
 
 In advanced rules, you can set it to auto turn on and off, the option is under schedule date and time.
 
-![image](advancedrules.png)
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+![Elementor Pop-Up Advanced Rules Screen](advancedrules.png)
