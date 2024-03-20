@@ -1,7 +1,7 @@
 # Creating Web Pages
 ## Creating a new page
 
-Go to the [https://www.keresley.church/wp-admin/edit.php?post_type=page](WordPress Pages Page) and click "Add New Page" 
+Go to the [WordPress Pages Page](https://www.keresley.church/wp-admin/edit.php?post_type=page) and click "Add New Page" 
 
 In the Elementor page editor, click on last years poster and the sidebar of the left will update. 
 
