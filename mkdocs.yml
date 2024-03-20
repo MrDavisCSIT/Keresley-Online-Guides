@@ -1,8 +1,11 @@
 site_name: Online Services Guides
 site_url: https://guides.keresley.church
 theme:
-  name: readthedocs
+  name: sphinx-rtd-dark-mode
   highlightjs: true
+  palette:
+    primary: red
+    accent: pink
 plugins:
 - search
 - mkdocstrings
