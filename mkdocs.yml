@@ -1,7 +1,7 @@
 site_name: Online Services Guides
 site_url: https://guides.keresley.church
 theme:
-  name: mkdocs
+  name: readthedocs
   highlightjs: true
   palette:
     primary: red
