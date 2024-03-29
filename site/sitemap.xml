@@ -2,22 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://guides.keresley.church/</loc>
-         <lastmod>2024-03-20</lastmod>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://guides.keresley.church/Keresley%20Church%20Website/ChristmasUpdates/</loc>
-         <lastmod>2024-03-20</lastmod>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://guides.keresley.church/Keresley%20Church%20Website/PageCreation/</loc>
-         <lastmod>2024-03-20</lastmod>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://guides.keresley.church/Keresley%20Church%20Website/PageUpdates/</loc>
-         <lastmod>2024-03-20</lastmod>
+         <lastmod>2024-03-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guides.keresley.church/Microsoft%20365/Distribution%20Lists/</loc>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
