@@ -20,7 +20,7 @@ Next to update click on the up arrow and then Triggers
 ![Elementor Pop-Up Triggers Screen](triggers.png)
 
 Turn page load on or off then click save and close.
-![Elementor Pop-Up Triggers Screen](onpageload.png)
+![Elementor Pop-Up Triggers Screen](on-page-load.png)
 
 In advanced rules, you can set it to auto turn on and off, the option is under schedule date and time.
-![Elementor Pop-Up Advanced Rules Screen](advancedrules.png)
+![Elementor Pop-Up Advanced Rules Screen](advanced-rules.png)
