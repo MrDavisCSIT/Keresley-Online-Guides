@@ -1,9 +1,4 @@
-
-
-## Uploading a Magazine
-Coming Soon
-
-## Creating a WordPress Post
+# Creating a WordPress Post
 Go to [https://www.keresley.church/wp-admin/edit.php](https://www.keresley.church/wp-admin/edit.php) and click on Add a New Post
 ![Wordpress Posts Page](postspage.png)
 
@@ -16,6 +11,3 @@ In the sidebar search for Real3D Flipbook and drag it to the centre of the page.
 
 Once the flipbook has been added to the page. Use the sidebar to select the correct flipbook to display.
 ![Flipbook Options](flipbookoptions.png)
-
-## Updating the Magazine Table
-Coming Soon
