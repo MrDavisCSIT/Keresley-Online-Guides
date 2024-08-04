@@ -13,6 +13,7 @@ Give the post a title, click save draft and then click on Edit in Elementor
 > ### Important Information
 > The name of the post should be MONTH YEAR only. e.g. February 2025
 > Adding additional words to the title causes issues with the website search system.
+
 ![Wordpress New Post Editor](new-posts-editor.png)
 
 You will then be taken to the Elementor editor for final creation of the post.
