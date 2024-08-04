@@ -1,6 +1,7 @@
 # Keresley Archives
 ## Magazine Introduction
 The magazines archive utilises the Wordpress posts feature. There are 2 parts to uploading a magazine to the website:
+
 1. [Creating a WordPress post for the magazine](#creating-a-wordpress-post)
 
 2. [Adding the link to the magazines table](#updating-the-magazine-table)
