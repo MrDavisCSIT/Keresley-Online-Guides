@@ -1,44 +1,40 @@
 # Keresley Archives
 ## Magazine Introduction
-The magazines archive utilises the Wordpress posts feature. There are 3 parts to uploading a magazine to the website:
+The magazines archive utilises the Wordpress posts feature. There are 2 parts to uploading a magazine to the website:
+1. [Creating a WordPress post for the magazine](#creating-a-wordpress-post)
 
-1. [Uploading a Magazine to Real3D Flipbook](#uploading-a-magazine)
-
-2. [Creating a WordPress post for the magazine](#creating-a-wordpress-post)
-
-3. [Adding the link to the magazines table](#updating-the-magazine-table)
-
-## Uploading a Magazine
-Once logged into WordPresss, go to [https://www.keresley.church/wp-admin/edit.php?post_type=r3d](https://www.keresley.church/wp-admin/edit.php?post_type=r3d) and click on Add New.
-![Real3D Flipbooks](real3d-flipbooks.png)
-
-Type in the name of the magazine you are uploading then click on Select PDF.
-![Add New Flipbook Page](add-new-flipbook.png)
-
-Drag the file of the PDF you wish to upload and make sure it has been selected before clicking on Send to Flipbook.
-![Select PDF Window](select-pdf.png)
-
-Finally click Publish.
-![Publish Flipbook](publish-flipbook.png)
+2. [Adding the link to the magazines table](#updating-the-magazine-table)
 
 ## Creating a WordPress Post
 Go to [https://www.keresley.church/wp-admin/edit.php](https://www.keresley.church/wp-admin/edit.php) and click on Add a New Post
 ![Wordpress Posts Page](posts-page.png)
 
 Give the post a title, click save draft and then click on Edit in Elementor
+> ### Important Information
+> The name of the post should be MONTH YEAR only. e.g. February 2025
+> Adding additional words to the title causes issues with the website search system.
 ![Wordpress New Post Editor](new-posts-editor.png)
 
 You will then be taken to the Elementor editor for final creation of the post.
 ![Elementor Post Editor](elementor-post-editor.png)
 In the sidebar search for Real3D Flipbook and drag it to the centre of the page.
 
-Once the flipbook has been added to the page. Use the sidebar to select the correct flipbook to display.
+Once the flipbook has been added to the page. Use the sidebar to select the "Magazine Flipbook".
 ![Flipbook Options](flipbook-options.png)
+
+Once this has been selected, click on the plus icon under PDF URL. This will open the media browser. Drag and drop the file into this browser and click Select.
+![Uploading a Magazine to the Media Browser](upload-to-media-browser.png)
+
+Once done, click on Publish
+![Publish Post](publish-post.png)
+
+When the publish post confirmation has appeared, click on take a look. This will take you to the live page. Make a note of the address for this page.
+![Live Page](live-page.png)
 
 ## Updating the Magazine Table
 In this example, we are adding an entry for a year that doesn't exist (January 2005).
 
-Go to [https://www.keresley.church/wp-admin/admin.php?page=ninja_tables#/tables/4882/](https://www.keresley.church/wp-admin/admin.php?page=ninja_tables#/tables/4882/) and find the year/month you want to add an entry to.
+Go to [https://www.keresley.church/wp-admin/admin.php?page=ninja_tables#/tables/7694/](https://www.keresley.church/wp-admin/admin.php?page=ninja_tables#/tables/7694/) and find the year/month you want to add an entry to.
 
 As the year does not exist, click on the plus icon at the end of the row containing the year after your magazine entry
 ![Edit Magazines Table Page](edit-magazine-table-new-row.png)
@@ -46,10 +42,10 @@ As the year does not exist, click on the plus icon at the end of the row contain
  This example is adding an entry for 2005. Untick the box next to continue adding then click Add.
  ![Add Data Window](add-data-window.png)
 
- You will see the table updated. Click the column which contains the month you want to add an entry to
- ![Edit Month Field](add-data-for-month.png)
+ You will see the table updated. At the end of the row for the correct year, click on the pencil to edit the data.
+ ![Edit Year](edit-year.png)
 
-We now have to put some HTML code in, this is the only way we can update the table for now. Go to your new post that you created in the previous section of this guide. Use the code below as your template. The section in speech marks MUST be replaced with the address of the new WordPress post you created.
-`<a href="http://www.keresley.church/magazine/february-2007/">February</a>`
+Paste the link for the new magaine post in the correct month then click Update at the bottom of the page.
+![Add Link to Table](add-link-to-table.png)
 
-As soon as you click off the field, the table will automatically save and update.
+As soon as you click update, the table will automatically save and update the public page.
