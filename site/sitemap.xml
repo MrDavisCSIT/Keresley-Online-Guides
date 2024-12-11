@@ -2,27 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://guides.keresley.church/</loc>
-         <lastmod>2024-03-29</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-12-11</lastmod>
     </url>
     <url>
-         <loc>https://guides.keresley.church/Keresley%20Church%20Website/ChristmasUpdates/</loc>
-         <lastmod>2024-03-29</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://guides.keresley.church/keresley-church-website/christmas-updates/</loc>
+         <lastmod>2024-12-11</lastmod>
     </url>
     <url>
-         <loc>https://guides.keresley.church/Keresley%20Church%20Website/PageCreation/</loc>
-         <lastmod>2024-03-29</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://guides.keresley.church/keresley-church-website/keresley-archives/</loc>
+         <lastmod>2024-12-11</lastmod>
     </url>
     <url>
-         <loc>https://guides.keresley.church/Keresley%20Church%20Website/PageUpdates/</loc>
-         <lastmod>2024-03-29</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://guides.keresley.church/keresley-church-website/page-creation/</loc>
+         <lastmod>2024-12-11</lastmod>
     </url>
     <url>
-         <loc>https://guides.keresley.church/Microsoft%20365/Distribution%20Lists/</loc>
-         <lastmod>2024-03-29</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://guides.keresley.church/keresley-church-website/page-updates/</loc>
+         <lastmod>2024-12-11</lastmod>
+    </url>
+    <url>
+         <loc>https://guides.keresley.church/microsoft-365/distribution-lists/</loc>
+         <lastmod>2024-12-11</lastmod>
     </url>
 </urlset>
