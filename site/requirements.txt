@@ -15,7 +15,7 @@ colorama==0.4.6
     #   mkdocs
 ghp-import==2.1.0
     # via mkdocs
-griffe==0.40.1
+griffe==1.10.0
     # via mkdocstrings-python
 jinja2==3.1.6
     # via
