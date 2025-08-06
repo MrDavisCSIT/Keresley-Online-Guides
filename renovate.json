@@ -24,6 +24,11 @@
     {
       "matchPackagePatterns": ["mkdocstrings"],
       "labels": ["mkdocstrings-updates"]
+    },
+    {
+      "description": "Automerge non-major updates",
+      "matchUpdateTypes": ["minor", "patch"],
+      "automerge": true
     }
   ]
 }
