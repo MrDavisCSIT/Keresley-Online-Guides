@@ -68,5 +68,5 @@ pyyaml-env-tag==0.1
     # via mkdocs
 six==1.16.0
     # via python-dateutil
-watchdog==4.0.0
+watchdog==6.0.0
     # via mkdocs
