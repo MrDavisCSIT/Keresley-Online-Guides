@@ -1,33 +1,54 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "config:base"
+    "config:recommended"
   ],
   "prHeader": "ADCM-Bot-Header",
   "assignees": [
     "mrdaviscsit"
   ],
-  "labels": ["dependencies-updater"],
+  "labels": [
+    "dependencies-updater"
+  ],
   "packageRules": [
     {
-      "matchPackagePatterns": ["mkdocs"],
-      "labels": ["mkdocs-updates"]
+      "labels": [
+        "mkdocs-updates"
+      ],
+      "matchPackageNames": [
+        "/mkdocs/"
+      ]
     },
     {
-      "matchPackagePatterns": ["mkdocs-autorefs"],
-      "labels": ["mkdocs-autorefs-updates"]
+      "labels": [
+        "mkdocs-autorefs-updates"
+      ],
+      "matchPackageNames": [
+        "/mkdocs-autorefs/"
+      ]
     },
     {
-      "matchPackagePatterns": ["mkdocstrings-python"],
-      "labels": ["mkdocstrings-python-updates"]
+      "labels": [
+        "mkdocstrings-python-updates"
+      ],
+      "matchPackageNames": [
+        "/mkdocstrings-python/"
+      ]
     },
     {
-      "matchPackagePatterns": ["mkdocstrings"],
-      "labels": ["mkdocstrings-updates"]
+      "labels": [
+        "mkdocstrings-updates"
+      ],
+      "matchPackageNames": [
+        "/mkdocstrings/"
+      ]
     },
     {
       "description": "Automerge non-major updates",
-      "matchUpdateTypes": ["minor", "patch"],
+      "matchUpdateTypes": [
+        "minor",
+        "patch"
+      ],
       "automerge": true
     }
   ]
