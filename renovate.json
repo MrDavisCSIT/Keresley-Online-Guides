@@ -15,7 +15,8 @@
     },
     {
       "matchPackagePatterns": ["mkdocs-autorefs"],
-      "labels": ["mkdocs-autorefs-updates"],
+      "labels": ["mkdocs-autorefs-updates"]
+    },
     {
       "matchPackagePatterns": ["mkdocstrings-python"],
       "labels": ["mkdocstrings-python-updates"]
