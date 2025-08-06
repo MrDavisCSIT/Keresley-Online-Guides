@@ -1,6 +1,11 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "config:recommended"
-  ]
+    "config:base"
+  ],
+  "prHeader": "ADCM-Bot-Header",
+  "assignees": [
+    "mrdaviscsit"
+  ],
+  "labels": ["dependencies-updater"],
 }
