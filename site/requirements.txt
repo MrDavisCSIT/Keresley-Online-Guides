@@ -45,7 +45,7 @@ mkdocstrings[python]==0.24.0
     # via
     #   -r .\docs\requirements.in
     #   mkdocstrings-python
-mkdocstrings-python==1.8.0
+mkdocstrings-python==1.16.12
     # via mkdocstrings
 packaging==25.0
     # via mkdocs
