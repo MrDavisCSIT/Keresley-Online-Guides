@@ -47,7 +47,7 @@ mkdocstrings[python]==0.24.0
     #   mkdocstrings-python
 mkdocstrings-python==1.8.0
     # via mkdocstrings
-packaging==23.2
+packaging==25.0
     # via mkdocs
 pathspec==0.12.1
     # via mkdocs
