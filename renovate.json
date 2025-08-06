@@ -8,4 +8,21 @@
     "mrdaviscsit"
   ],
   "labels": ["dependencies-updater"],
+  "packageRules": [
+    {
+      "matchPackagePatterns": ["mkdocs"],
+      "labels": ["mkdocs-updates"]
+    },
+    {
+      "matchPackagePatterns": ["mkdocs-autorefs"],
+      "labels": ["mkdocs-autorefs-updates"],
+    {
+      "matchPackagePatterns": ["mkdocstrings-python"],
+      "labels": ["mkdocstrings-python-updates"]
+    },
+    {
+      "matchPackagePatterns": ["mkdocstrings"],
+      "labels": ["mkdocstrings-updates"]
+    }
+  ]
 }
