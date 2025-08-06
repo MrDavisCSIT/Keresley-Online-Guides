@@ -57,7 +57,7 @@ platformdirs==4.3.8
     #   mkdocstrings
 pymdown-extensions==10.7
     # via mkdocstrings
-python-dateutil==2.8.2
+python-dateutil==2.9.0.post0
     # via ghp-import
 pyyaml==6.0.2
     # via
