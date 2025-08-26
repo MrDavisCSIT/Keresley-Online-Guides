@@ -39,7 +39,7 @@ mkdocs==1.6.1
     #   -r .\docs\requirements.in
     #   mkdocs-autorefs
     #   mkdocstrings
-mkdocs-autorefs==1.4.2
+mkdocs-autorefs==1.4.3
     # via mkdocstrings
 mkdocstrings[python]==0.30.0
     # via
