@@ -51,7 +51,7 @@ packaging==25.0
     # via mkdocs
 pathspec==0.12.1
     # via mkdocs
-platformdirs==4.3.8
+platformdirs==4.4.0
     # via
     #   mkdocs
     #   mkdocstrings
